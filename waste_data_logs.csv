@@ -1,0 +1,5 @@
+timestamp,item_id,detected_density,structural_rigidity,assigned_category,sorting_time_sec
+2026-02-15 08:32:11,ITEM_001,0.91,62,Recyclable,0.45
+2026-02-15 08:34:05,ITEM_002,0.42,10,Organic,0.61
+2026-02-15 08:35:42,ITEM_003,0.12,4,General Waste,0.38
+2026-02-15 08:39:19,ITEM_004,0.88,58,Recyclable,0.42
